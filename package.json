@@ -1,0 +1,16 @@
+{
+  "name": "chat-app-iot",
+  "version": "1.0.0",
+  "description": "A simple chat app using Socket.IO and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "ws": "^8.18.0"
+  }
+}
